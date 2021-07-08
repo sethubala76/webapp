@@ -13,5 +13,3 @@ Deploy ```target/WebApp.war``` on Tomcat
 #TODO
  
 Add instruction to deploy to ElasticBeanstalk
-
-# Adding a line for dummy commit
